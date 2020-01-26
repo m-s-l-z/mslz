@@ -1,0 +1,31 @@
+A ARBEITSKREIS ARBEITSGRUPPEN AJAX ADMIN ARCHITEKT, AI, AutoDitaktik
+B Bildung ein Leben lang, Bibliothek, BZ,
+C C, C++, Computer, Chat, CentOS, Cluster, Converse.js
+D Debian, Ditaktik, Dienstagtreffen, DiY,
+E E-Learning, Engineer
+F Fablab, FB, FB-Gruppen, Filmkolektiv siehe auch Videokolektiv
+G Gruppe, Gentoo, Geisteswissenschaften, GITHUB
+H HTML, Hilfe bei den ersten Schritten,
+I Informatik, Instagram,
+J Javascript, jQuery, JSon, JAVA, Jabber,
+K Kompetenzen aufbauen, KI, KOMM (Quartier), Konferenz
+L Laptop, Linux, lebenslange Lernen, Lernspiel
+M MSLZ (MobilesSelbstLernZentrum), MySQL, MOOC, Meetup,
+N Naturwissenschaften, Netztwerk, Navigator, Nürnberg (Steinbühl)
+O Offenes Treffen, Open Source, Open Office, Onlinekonferenz
+P PHP, Python, Platform as a Service (PaaS)
+Q Quartier U1, Quellekollektiv, Quiz
+R Resourcen, Rhetorik, Robotik, R-Programmiersprache,
+S Scripte, Server, Sprachen, SSH, Selber lernen, Selfhtml, Stadt selbstgestalten
+ST Studium Universale
+T Theater, Twitter, Technik, Typo3, Tellerrand, Thomas Geyer,
+U Uberspace, U-Bahnstation, U-Bahn, U1 Quartier, UNI (Strassenkreuzer)
+V Verein (Die Initiative e.V.) ... AG gründen, Videokolektiv
+W WIKI, Wordpress, Wikipedia, w3School, Webinar, "Working" from Home
+X Xubuntu, XMPP,
+Y Youtube, Youtubekanal
+Z Z-Bau, Zertifizierungsvorbereitung,
+
+1
+2
+3 3-Druck
