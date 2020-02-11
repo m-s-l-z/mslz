@@ -6,7 +6,7 @@ zufallsantworten=["Oh, wirklich", "Interessant ...", "Das kann man so sehen", "I
 reaktionsantworten = {"hallo": "aber Hallo", 
 					  "geht": "Was verstehst du darunter?", 
 					  "essen": "Ich habe leider keinen Geschmackssinn :(",	
- "Grundeinkommen": "Da gibt es noch viel zu Machen, auch feiern ...", 
+ 					"Grundeinkommen": "Da gibt es noch viel zu Machen, auch feiern ...", 
 					  }
                       
 print("Willkommen beim Chatbot")
