@@ -1,4 +1,4 @@
-# python -m pygame.docs
+# python 
 
 import os
 import webbrowser
